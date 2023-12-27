@@ -3,8 +3,8 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://mamadjadali.github.io',
-	base: '/Rep-Astro',
+	site: 'https://REP-infosec.github.io',
+	base: '/REP',
 	integrations: [
 		starlight({
 			title: 'REP',
